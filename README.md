@@ -1,4 +1,4 @@
-# ComputerVision
+# Image Classification
 
 Description :
 
